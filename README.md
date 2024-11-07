@@ -8,15 +8,26 @@
 ---
 
 💻 Technologies & Skills
-Here’s a snapshot of my tech stack and expertise across Frontend, Backend, Design, and Tools:
+In my development journey, I work with a balanced stack across Frontend, Backend, Design, and Tools to create seamless, engaging applications. Here’s a closer look at my skills:
 
 <div align="center">
-HTML, CSS, JavaScript	Java, Python, SQL, Hibernate	UI/UX Design, Responsive Design	IntelliJ IDEA, VS Code, Git, Koloro
+Frontend 🌐	Backend ⚙️	Design 🎨	Tools 🔧
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> HTML
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> CSS
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> JavaScript
+<img src="https://img.shields.io/badge/JavaFX-2C2D72?style=flat&logo=java&logoColor=white"> JavaFX	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> Java
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"> Hibernate
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> Python
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"> SQL	<img src="https://img.shields.io/badge/UI/UX%20Design-333333?style=flat&logo=figma&logoColor=white"> UI/UX Design
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=flat&logo=figma&logoColor=white"> Responsive Design
+<img src="https://img.shields.io/badge/Prototyping-FF5733?style=flat&logo=figma&logoColor=white"> Prototyping	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"> IntelliJ IDEA
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> VS Code
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> Git
+<img src="https://img.shields.io/badge/Koloro-333333?style=flat&logo=google&logoColor=white"> Koloro
 </div>
+With a focus on clean, efficient code and innovative design, I aim to deliver projects that are both functional and engaging, ensuring that users enjoy a seamless experience.
 
-## 📌 Featured Projects
 
-Here’s a glimpse into my featured projects that showcase my journey and expertise:
 
 ### 🧮 [Simple Calculator](https://github.com/priyanjanap/Simple-Calculator.git)
 - **Tech Stack**: HTML, CSS, JavaScript
