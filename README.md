@@ -6,9 +6,25 @@
 
 
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=440&lines=Pasindu+Priyanjana+%7C+21+Years+Old+%7C+Currently+Learning+at+Institute+of+Software+Engineering;👀+Interested+in+HTML+%7C+CSS+%7C+JavaScript+%7C+C%2B%2B+%7C+Hacking+%7C+Web+Development+%7C+...;💬+Text+me+on+WhatsApp+%2B9471+6934546!" alt="Typing SVG" />
+---
+# About Me
+
+### 👋 Hi, there
+
+- 🎓 **Currently Learning** at the **Institute of Software Engineering**
+- 🗓 **21 years old**
+- 👀 **Interested in**:
+  - **HTML**
+  - **CSS**
+  - **JavaScript**
+  - **C++**
+  - **Hacking**
+  - **Web Development**
+  - **... and more!**
 
 ---
+
+💬 **Feel free to reach out to me on WhatsApp**: [Click to Chat](https://wa.me/94716934546)
 
 ## 💻 Technologies & Skills
 
