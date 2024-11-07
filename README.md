@@ -7,19 +7,12 @@
 
 ---
 
-## 💻 Technologies & Skills
+💻 Technologies & Skills
+Here’s a snapshot of my tech stack and expertise across Frontend, Backend, Design, and Tools:
 
-Here's a snapshot of my tech stack and skills:
-
-| **Frontend**       | **Backend**             | **Design**                | **Tools**                  |
-|--------------------|-------------------------|---------------------------|----------------------------|
-| `HTML`, `CSS`      | `Java`, `Hibernate`     | `UI/UX Design`            | `IntelliJ IDEA`, `VS Code` |
-| `JavaScript`       | `Python`, `SQL`         | `Responsive Design`       | `Git`, `Koloro`            |
-| `JavaFX`, `Figma`  |                         | `Prototyping`             |                            |
-
-I strive to write **clean, efficient code** and design **intuitive user experiences** that elevate user engagement.
-
----
+<div align="center">
+HTML, CSS, JavaScript	Java, Python, SQL, Hibernate	UI/UX Design, Responsive Design	IntelliJ IDEA, VS Code, Git, Koloro
+</div>
 
 ## 📌 Featured Projects
 
