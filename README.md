@@ -1,48 +1,71 @@
-I apologize, but as an AI assistant, I do not have the capability to directly design or modify a custom GitHub profile for you. However, I can provide you with a sample README file structure that you can use to showcase your GitHub profile in an engaging way:
+<div align="center">
+  <h1>🌟 Welcome to My GitHub Profile! 🌟</h1>
+  <h3>Hi there! I'm <span style="color:#ff5733; font-weight:bold;">Pasindu Priyanajan</span>,</h3>
+  <h4>A passionate software engineering student and developer from Sri Lanka.</h4>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=440&lines=Java+%7C+Python+%7C+JavaScript+%7C+HTML+%2F+CSS+%7C+UI%2FUX+Design;Passionate+about+%F0%9F%96%A5%EF%B8%8F+Full+Stack+Development!" alt="Typing SVG" />
+</div>
 
-```markdown
-# Bitik - Web Developer in Making
+---
 
-## About Me
-- I am a 2nd year student pursuing Master's in Computer Applications from Guru Gobind Singh Indraprastha University.
-- I am a passionate learner who is always eager to learn and work across technologies and domains.
-- I love to explore new technologies and develop innovative solutions. I'm currently into Web Development & working on my Data Structures and Algorithms skills.
+## 💻 Technologies & Skills
 
-## Skills
-- **Languages**: C, Java, Python, HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Node.js, Express, MongoDB
-- **Other Skills**: Git, MySQL, Algorithms, Data Structures
+Here's a snapshot of my tech stack and skills:
 
-## Projects
-Here are some of my recent projects:
+| **Frontend**       | **Backend**             | **Design**                | **Tools**                  |
+|--------------------|-------------------------|---------------------------|----------------------------|
+| `HTML`, `CSS`      | `Java`, `Hibernate`     | `UI/UX Design`            | `IntelliJ IDEA`, `VS Code` |
+| `JavaScript`       | `Python`, `SQL`         | `Responsive Design`       | `Git`, `Koloro`            |
+| `JavaFX`, `Figma`  |                         | `Prototyping`             |                            |
 
-1. **Expense Tracker App**
-   - **Description**: A web application to help users track their expenses and manage their finances.
-   - **Technologies Used**: React, Node.js, Express, MongoDB
-   - **GitHub**: [Link to the project repository]
+I strive to write **clean, efficient code** and design **intuitive user experiences** that elevate user engagement.
 
-2. **Responsive Portfolio Website**
-   - **Description**: A modern and responsive portfolio website to showcase my work and skills.
-   - **Technologies Used**: HTML, CSS, JavaScript
-   - **GitHub**: [Link to the project repository]
+---
 
-## GitHub Stats
-![Bitik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bitik&show_icons=true&theme=radical)
+## 📌 Featured Projects
 
-## Contact
-- **Email**: bitik@example.com
-- **LinkedIn**: [Your LinkedIn profile URL]
-- **Twitter**: [@Bitik_dev](https://twitter.com/Bitik_dev)
-```
+Here’s a glimpse into my featured projects that showcase my journey and expertise:
 
-This README file structure includes the following sections:
+### 🧮 [Simple Calculator](https://github.com/priyanjanap/Simple-Calculator.git)
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Description**: This calculator app was crafted with an intuitive UI and smooth transitions, helping me solidify my JavaScript basics.
+- **Features**: Responsive design, animated buttons, and an organized code structure.
 
-1. **About Me**: A brief introduction about yourself, your studies, and your interests as a web developer.
-2. **Skills**: A list of the programming languages, frameworks, libraries, and other skills you possess.
-3. **Projects**: Showcases your recent projects with brief descriptions, the technologies used, and links to the GitHub repositories.
-4. **GitHub Stats**: Displays your GitHub statistics using the GitHub Readme Stats tool.
-5. **Contact**: Provides your email, LinkedIn, and Twitter information for potential connections.
+### 🛒 Point of Sale (POS) System
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Description**: A full-featured POS system for item, order, and customer management. This project showcases my full-stack development and UI/UX skills.
+- **Features**: Modular layout, clear navigation, and advanced animations for an enhanced user experience.
 
-You can customize this structure to fit your specific needs and preferences. Remember to replace the placeholder values (such as your name, GitHub username, and project details) with your own information.
+### 🚗 Car Management System
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Description**: Built for personal use, this project efficiently manages car-related information with a minimalist design.
+- **Features**: Data handling, secure access control, and easy-to-use design.
 
-Let me know if you have any other questions or if you need further assistance in creating your GitHub profile README file.
+---
+
+## 🌱 Currently Learning
+
+I’m diving into:
+- **JavaScript Advanced Concepts** – Expanding skills in functions, objects, and async programming.
+- **Java Enterprise Edition (Java EE)** – Building enterprise-level backend applications.
+- **Responsive Web Design** – Focusing on pixel-perfect designs across devices.
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanjanap&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanjanap&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let’s Connect!
+
+Whether you have a project in mind, need assistance, or just want to connect, I’d love to hear from you! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:youremail@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
+
+> _"Striving for progress, not perfection."_  
