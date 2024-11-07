@@ -2,10 +2,11 @@
   <h1>🌟 Welcome to My GitHub Profile! 🌟</h1>
   <h3>Hi there! I'm <span style="color:#ff5733; font-weight:bold;">Pasindu Priyanjana</span>,</h3>
   <h4> A passionate software engineering student and developer from Sri Lanka.</h4>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=540&lines=Java+%7C+Python+%7C+JavaScript+%7C+HTML+%2F+CSS+%7C+UI%2FUX+Design;Passionate+about+❤️+Full+Stack+Developer!;Follow+me+for+more+tech+updates!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=640&lines=Java+%7C+Python+%7C+JavaScript+%7C+HTML+%2F+CSS+%7C+UI%2FUX+Design;Passionate+about+❤️+Full+Stack+Developer!;Follow+me+for+more+tech+updates!" alt="Typing SVG" />
 
 
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=440&lines=Pasindu+Priyanjana+%7C+21+Years+Old+%7C+Currently+Learning+at+Institute+of+Software+Engineering;👀+Interested+in+HTML+%7C+CSS+%7C+JavaScript+%7C+C%2B%2B+%7C+Hacking+%7C+Web+Development+%7C+...;💬+Text+me+on+WhatsApp+%2B9471+6934546!" alt="Typing SVG" />
 
 ---
 
