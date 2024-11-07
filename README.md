@@ -2,12 +2,11 @@
   <h1>🌟 Welcome to My GitHub Profile! 🌟</h1>
   <h3>Hi there! I'm <span style="color:#ff5733; font-weight:bold;">Pasindu Priyanjana</span>,</h3>
   <h4> A passionate software engineering student and developer from Sri Lanka.</h4>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=640&lines=Java+%7C+Python+%7C+JavaScript+%7C+HTML+%2F+CSS+%7C+UI%2FUX+Design;Passionate+about+❤️+Full+Stack+Developer!;Follow+me+for+more+tech+updates!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff5733&center=true&vCenter=true&width=740&lines=Java+%7C+Python+%7C+JavaScript+%7C+HTML+%2F+CSS+%7C+UI%2FUX+Design;Passionate+about+❤️+Full+Stack+Developer!;Follow+me+for+more+tech+updates!" alt="Typing SVG" />
 
 
 </div>
 ---
-# About Me
 
 ### 👋 Hi, there
 
@@ -22,10 +21,10 @@
   - **Web Development**
   - **... and more!**
 
----
+
 
 💬 **Feel free to reach out to me on WhatsApp**: [Click to Chat](https://wa.me/94716934546)
-
+---
 ## 💻 Technologies & Skills
 
 In my development journey, I work with a balanced stack across **Frontend**, **Backend**, **Design**, and **Tools** to create seamless, engaging applications. Here’s a closer look at my skills:
